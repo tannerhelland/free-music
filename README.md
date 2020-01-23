@@ -1,9 +1,8 @@
 
 Free original music for games and film
---------------------------------------
+======================================
 
-(in mp3, MIDI, ogg, and FLAC formats)
-=====================================
+*(in mp3, MIDI, ogg, and FLAC formats)*
 
 [Download the full collection from the releases page](https://github.com/tannerhelland/free-music/releases).
 
